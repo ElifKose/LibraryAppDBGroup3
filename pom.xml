@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cydeo</groupId>
-    <artifactId>libraryApp_DBTesting</artifactId>
+    <artifactId>libraryApp_DBGroup3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
